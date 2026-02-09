@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 public class DatenbankAnbindung {
 
     private static Connection connection;
-    private static final String URL = "jdbc:mysql://10.25.2.145:3306";
+    private static final String URL = "jdbc:mysql://10.25.2.145:3306/24chgo";
     private static final String USER = "24gobu";
     private static final String PASSWORD = "geb24";
 
